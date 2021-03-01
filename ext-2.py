@@ -1,11 +1,13 @@
-#%%
-numlist = list()
-while (True):
-    inp = input('Enter a number: ')
-    if inp == 'done': break
-    value = float(inp)
-    numlist.append(value)
+from typing import List
 
-average = sum(numlist) / len(numlist)
-print('Average:', average)
+import app as app
 
+numbers = [11, 21, 19, 18, 46]
+
+# start parameter is not provided
+sumList = sum(numbers)
+print(sumList)
+
+# start = 10
+sumList = sum(numbers, 10)
+print(sumList)

@@ -1,7 +1,9 @@
-largest = None
-print('Before:', largest)
-for iterval in [3, 41, 12, 9, 74, 15]:
-    if largest is None or largest < iterval:
-        largest = iterval
-    print('Loop:', iterval, largest)
+import
+
+largest: int = int
+print("Before:", largest)
+for interval in [3, 41, 12, 9, 74, 15]:
+    if largest is None or largest < interval:
+        largest = interval
+    print('Loop:', interval, largest)
 print('Largest:', largest)
