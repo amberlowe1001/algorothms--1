@@ -3,6 +3,41 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\amber\PycharmProjects\python\recurisson\factorial.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\amber\PycharmProjects\python\recurisson\homework-algorithms3.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\amber\PycharmProjects\python\recurisson\perfect number.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\amber\PycharmProjects\python\recurisson\recurssion limit.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\amber\PycharmProjects\python\recurisson\venv\fibonacci.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\exp3.py">
           <value>
             <Attribute>
@@ -18,6 +53,13 @@
           </value>
         </entry>
         <entry key="\largest = None.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\lists\lists.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
